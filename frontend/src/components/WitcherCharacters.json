@@ -1,0 +1,65 @@
+{
+    "characters": [
+      {
+        "id": 1,
+        "name": "Geralt of Rivia",
+        "src": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3c1989be-81c3-448e-aa60-9f146eb990ae/ddqjfjy-5aaab66c-7b01-4bad-8e38-930963f15b3a.png/v1/fill/w_1280,h_1779/geralt_of_rivia___witcher_fanart___by_dhkiim_ddqjfjy-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTc3OSIsInBhdGgiOiJcL2ZcLzNjMTk4OWJlLTgxYzMtNDQ4ZS1hYTYwLTlmMTQ2ZWI5OTBhZVwvZGRxamZqeS01YWFhYjY2Yy03YjAxLTRiYWQtOGUzOC05MzA5NjNmMTViM2EucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.WHgq7DT_PPW2g8FiNmzh9TEZO1XNa2jEbzhBW34i19M"
+      },
+      {
+        "id": 2,
+        "name": "Dandelion",
+        "src": "https://static.displate.com/857x1200/displate/2019-04-25/00bdddb3c5250a664b3aad2de801e0a2_a285969f767c2707ef78d16a9735a565.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Ciri",
+        "src": "https://i.pinimg.com/736x/64/70/1f/64701f25fd1925d520ad5fa91a386189.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Yennefer",
+        "src": "https://pbs.twimg.com/media/E54JjVEWYAQmYIW.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Triss",
+        "src": "https://c4.wallpaperflare.com/wallpaper/938/168/7/the-witcher-3-wild-hunt-triss-merigold-artwork-wallpaper-preview.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Vesemir",
+        "src": "https://preview.redd.it/w6rbznw00x321.jpg?auto=webp&s=b2dc53dc2fb056b8549257c532fa7e1f04b0ac55"
+      },
+      {
+        "id": 7,
+        "name": "Philipa Eilhart",
+        "src": "https://game-maps.com/Witcher3/img/npc/PHILIPPA-EILHART.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Emhyr van Emreis",
+        "src": "https://i.redd.it/3aw9ddy1ku371.png"
+      },
+      {
+        "id": 9,
+        "name": "Fringilla Vigo",
+        "src": "https://preview.redd.it/lekhzc5r5a641.jpg?auto=webp&s=5360180be92da4922e11377a2f59aea5b89a3927"
+      },
+      {
+        "id": 10,
+        "name": "Eskel",
+        "src": "https://pbs.twimg.com/media/FMeFtEFXoAEG9xJ.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Vilgefortz",
+        "src": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e212b16-44af-4512-801f-c0ff02cd6cf2/de5avpv-5d2d80ca-55cf-47c1-927a-facb8f30cd95.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlMjEyYjE2LTQ0YWYtNDUxMi04MDFmLWMwZmYwMmNkNmNmMlwvZGU1YXZwdi01ZDJkODBjYS01NWNmLTQ3YzEtOTI3YS1mYWNiOGYzMGNkOTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.G5ACSMaJAyITlu2SbzzdnkQf8zLVAErUbuHU-9niVMg"
+      },
+      {
+        "id": 12,
+        "name": "Sigismund Dijkstra",
+        "src": "https://i.redd.it/yewur3cpzeu51.jpg"
+      }
+    ]
+  }
+  
